@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍💻 - Java, Kotlin and Python Developer<br><br>- Studying Systems Analysis and Development at the Fiap Faculty of Technology.<br><br><br>- 📫 How to reach me: LinkEdin: www.linkedin.com/in/lucas-ferreira-4cb1</p>
+<p align="left">👨‍💻 - I'm a Python and Java Developer<br><br>- Completed a degree in Systems Analysis and Development from FIAP College of Technology. Currently focusing on complementary courses and projects in Python to secure a position as a Junior Developer. <br><br><br>- 📫 How to reach me: LinkEdin: www.linkedin.com/in/lucas-ferreira-4cb1</p>
 
 ###
 
